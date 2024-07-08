@@ -1,5 +1,7 @@
 # MinicoreDjango-React
- 
+
+ Erick Rosero 
+ 7/7/2024
 link del frontend: https://github.com/KireLord/tareas-frontend
 
 Este proyecto es una aplicación de gestión de tareas desarrollada utilizando Django para el backend y React para el frontend. Permite a los usuarios seleccionar un rango de fechas para ver las tareas que están en progreso y han pasado su fecha estimada de finalización.
