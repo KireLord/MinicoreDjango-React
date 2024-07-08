@@ -1,0 +1,2 @@
+# MinicoreDjango-React
+ 
